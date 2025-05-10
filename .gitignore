@@ -38,3 +38,6 @@ out/
 
 !**/stock-manager/
 !**/stock-manager/**
+/homework/
+/bookstore/
+/toss/
